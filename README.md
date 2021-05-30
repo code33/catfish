@@ -13,3 +13,7 @@ https://github.com/code33/catfish
 3. 希望有这方面资料群的好友加我vx：code33
 4. 帮助更多需要帮助的小姐姐，毕竟她们赚点辛苦钱不容易
 5. 这里会更新开发日志。希望大家保持关注
+
+skype 群聊,聊天室
+
+https://join.skype.com/wfnaea01GlTk
