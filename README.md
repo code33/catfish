@@ -21,10 +21,13 @@ https://github.com/code33/catfish
 5. 这里会更新开发日志。希望大家保持关注
 
 
-skype 下载
+skype android apk 下载安装包
 
 http://xyzsetup.dlhis.com/isl-skype-8-72-0-94.apk
 
+skype iPhone iOS 安装
+
+https://apps.apple.com/us/app/skype-for-iphone/id304878510
 
 skype 群聊,聊天室
 
