@@ -28,6 +28,15 @@ Amazon S3 OSS服务
 
 code0515@gmail.com
 
+### 开发日志
+
+1. 对充值申请的确认action, 一键确认-admin端: 
+    
+    创建一个充值CCPD-生成充值链接,alipays
+
+2. 查询充值申请信息, 
+
+    根据CCPD查询充值信息
 
 ## 2021-06-28 
 
