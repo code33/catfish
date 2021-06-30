@@ -34,8 +34,9 @@ code0515@gmail.com
     
     创建一个充值CCPD-生成充值链接,alipays
 
-2. 查询充值申请信息, 
+2. amilie-h5 node端,充值相关功能API 
 
+    BT01 BT02 BT03 BT04 BT05
     根据CCPD查询充值信息
 
 ## 2021-06-28 
