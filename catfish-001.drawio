@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-05-28T10:02:30.175Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.62 Safari/537.36" etag="2w8iXna2eb06A0zTTxa4" version="18.1.3" type="github">
+<mxfile host="app.diagrams.net" modified="2022-05-28T10:03:20.360Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.62 Safari/537.36" etag="aUTioE2hBsdq0U5ekS92" version="18.1.3" type="github">
   <diagram id="wFE0QG_FPsp0jaGvCLVb" name="Page-1">
     <mxGraphModel dx="1493" dy="891" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -95,6 +95,11 @@
         <object label="商品货架(上下架)" placeholders="1" id="_5mSTuPxr-ZiKRkBDSY7-12">
           <mxCell style="whiteSpace=wrap;html=1;strokeWidth=2;fillColor=#b0e3e6;fontStyle=1;spacingTop=0;rounded=0;arcSize=9;points=[];sketch=0;fontFamily=Permanent Marker;hachureGap=8;fillWeight=1;strokeColor=#0e8088;" parent="_5mSTuPxr-ZiKRkBDSY7-9" vertex="1">
             <mxGeometry x="20" y="221" width="140" height="80" as="geometry" />
+          </mxCell>
+        </object>
+        <object label="直播商品购买" placeholders="1" id="Qd9C7BI9R3bH5Mv_j0PO-37">
+          <mxCell style="whiteSpace=wrap;html=1;strokeWidth=2;fillColor=#b0e3e6;fontStyle=1;spacingTop=0;rounded=0;arcSize=9;points=[];sketch=0;fontFamily=Permanent Marker;hachureGap=8;fillWeight=1;strokeColor=#0e8088;" vertex="1" parent="_5mSTuPxr-ZiKRkBDSY7-9">
+            <mxGeometry x="20" y="321" width="140" height="80" as="geometry" />
           </mxCell>
         </object>
         <object label="TO DO" status="Completed" id="Qd9C7BI9R3bH5Mv_j0PO-15">
