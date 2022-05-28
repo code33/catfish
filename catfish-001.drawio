@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-05-28T10:03:20.360Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.62 Safari/537.36" etag="aUTioE2hBsdq0U5ekS92" version="18.1.3" type="github">
+<mxfile host="app.diagrams.net" modified="2022-05-28T10:08:23.711Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.62 Safari/537.36" etag="G1apxAtGo0uV1NWIPMbo" version="18.1.3" type="github">
   <diagram id="wFE0QG_FPsp0jaGvCLVb" name="Page-1">
     <mxGraphModel dx="1493" dy="891" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -30,6 +30,11 @@
         <object label="本机手机号获取登入" placeholders="1" id="Qd9C7BI9R3bH5Mv_j0PO-27">
           <mxCell style="whiteSpace=wrap;html=1;strokeWidth=2;fillColor=#b0e3e6;fontStyle=1;spacingTop=0;rounded=0;arcSize=9;points=[];sketch=0;fontFamily=Permanent Marker;hachureGap=8;fillWeight=1;strokeColor=#0e8088;" vertex="1" parent="_5mSTuPxr-ZiKRkBDSY7-2">
             <mxGeometry x="20" y="321" width="140" height="80" as="geometry" />
+          </mxCell>
+        </object>
+        <object label="用户登出" placeholders="1" id="Qd9C7BI9R3bH5Mv_j0PO-40">
+          <mxCell style="whiteSpace=wrap;html=1;strokeWidth=2;fillColor=#b0e3e6;fontStyle=1;spacingTop=0;rounded=0;arcSize=9;points=[];sketch=0;fontFamily=Permanent Marker;hachureGap=8;fillWeight=1;strokeColor=#0e8088;" vertex="1" parent="_5mSTuPxr-ZiKRkBDSY7-2">
+            <mxGeometry x="20" y="421" width="140" height="80" as="geometry" />
           </mxCell>
         </object>
         <object label="TO DO" status="New" id="Qd9C7BI9R3bH5Mv_j0PO-1">
@@ -72,9 +77,14 @@
             <mxGeometry x="20" y="121" width="140" height="80" as="geometry" />
           </mxCell>
         </object>
-        <object label="上下架管理" placeholders="1" id="Qd9C7BI9R3bH5Mv_j0PO-30">
+        <object label="调价管理" placeholders="1" id="Qd9C7BI9R3bH5Mv_j0PO-30">
           <mxCell style="whiteSpace=wrap;html=1;strokeWidth=2;fillColor=#b0e3e6;fontStyle=1;spacingTop=0;rounded=0;arcSize=9;points=[];sketch=0;fontFamily=Permanent Marker;hachureGap=8;fillWeight=1;strokeColor=#0e8088;" vertex="1" parent="_5mSTuPxr-ZiKRkBDSY7-6">
             <mxGeometry x="20" y="221" width="140" height="80" as="geometry" />
+          </mxCell>
+        </object>
+        <object label="上下架管理" placeholders="1" id="Qd9C7BI9R3bH5Mv_j0PO-38">
+          <mxCell style="whiteSpace=wrap;html=1;strokeWidth=2;fillColor=#b0e3e6;fontStyle=1;spacingTop=0;rounded=0;arcSize=9;points=[];sketch=0;fontFamily=Permanent Marker;hachureGap=8;fillWeight=1;strokeColor=#0e8088;" vertex="1" parent="_5mSTuPxr-ZiKRkBDSY7-6">
+            <mxGeometry x="20" y="321" width="140" height="80" as="geometry" />
           </mxCell>
         </object>
         <object label="TO DO" status="Completed" id="_5mSTuPxr-ZiKRkBDSY7-9">
@@ -160,6 +170,11 @@
         <object label="呼叫客服" placeholders="1" id="Qd9C7BI9R3bH5Mv_j0PO-34">
           <mxCell style="whiteSpace=wrap;html=1;strokeWidth=2;fillColor=#b0e3e6;fontStyle=1;spacingTop=0;rounded=0;arcSize=9;points=[];sketch=0;fontFamily=Permanent Marker;hachureGap=8;fillWeight=1;strokeColor=#0e8088;" vertex="1" parent="Qd9C7BI9R3bH5Mv_j0PO-19">
             <mxGeometry x="20" y="521" width="140" height="80" as="geometry" />
+          </mxCell>
+        </object>
+        <object label="调价通知" placeholders="1" id="Qd9C7BI9R3bH5Mv_j0PO-39">
+          <mxCell style="whiteSpace=wrap;html=1;strokeWidth=2;fillColor=#b0e3e6;fontStyle=1;spacingTop=0;rounded=0;arcSize=9;points=[];sketch=0;fontFamily=Permanent Marker;hachureGap=8;fillWeight=1;strokeColor=#0e8088;" vertex="1" parent="Qd9C7BI9R3bH5Mv_j0PO-19">
+            <mxGeometry x="20" y="621" width="140" height="80" as="geometry" />
           </mxCell>
         </object>
         <object label="to do" status="Completed" id="Qd9C7BI9R3bH5Mv_j0PO-23">
